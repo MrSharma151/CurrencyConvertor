@@ -20,8 +20,8 @@ Welcome to the React Vite Currency Converter project! This application allows yo
 
 To get started with the React Vite Currency Converter, follow these steps:
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/react-vite-currency-converter.git`
-2. **Navigate to the Project Directory:** `cd react-vite-currency-converter`
+1. **Clone the Repository:** `git clone https://github.com/MrSharma151/CurrencyConvertor/.git`
+2. **Navigate to the Project Directory:** `cd CurrencyConvertor`
 3. **Install Dependencies:** `npm install` or `yarn install`
 4. **Run the Development Server:** `npm run dev` or `yarn dev`
 5. **Open the Application:** Visit `http://localhost:3000` in your web browser.
